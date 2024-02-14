@@ -54,3 +54,4 @@ erişebilen ve yönetilebilen state deposudur.
 - reducer/reducer'ların kurulumunu yap
 - store'un kurulumunu yap
 -store'u projeye tanıt# ReduxNotePad
+![](./gif/ReduxNote.gif)
